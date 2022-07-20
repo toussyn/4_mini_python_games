@@ -31,9 +31,9 @@ while True:
         user_wins += 1
 
     else:
-        print("You lost!")
+        print("You lost, lol!")
         computer_wins += 1
 
 print("You won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
-print("Goodbye!")
+print("Goodbye!!")
